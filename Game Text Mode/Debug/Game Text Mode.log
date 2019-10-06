@@ -1,0 +1,6 @@
+﻿  Game_1.cpp
+C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Game Text Mode\Game_1.cpp(6,14): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Game Text Mode\Game_1.cpp(6,17): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Game Text Mode\Game_1.cpp(11,14): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Game Text Mode\Game_1.cpp(11,17): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Game Text Mode.vcxproj -> C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Debug\Game Text Mode.exe

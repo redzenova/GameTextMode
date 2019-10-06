@@ -1,0 +1,8 @@
+﻿  Game_2.cpp
+C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Game Text Mode\Game_2.cpp(52,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Game Text Mode\Game_2.cpp(110,14): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Game Text Mode\Game_2.cpp(110,17): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Game Text Mode\Game_2.cpp(215,27): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Game Text Mode\Game_2.cpp(215,29): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\Game Text Mode\Game_2.cpp(147): warning C4715:  'draw_bullet': not all control paths return a value
+  Game Text Mode.vcxproj -> C:\Users\Redzer0\Desktop\Game TextMode\Game Text Mode\x64\Debug\Game Text Mode.exe
